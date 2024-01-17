@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SongJaeIk</h1>
 <h3 align="center">Welcome!</h3>
 
-- 🔭 직업? **부산대학교에 재학하고 있습니다**
+- 🔭 My job is **a university student in Pusan National University**
 
-- 🌱 배우는 것? **전기공학에 대해 배우고 있습니다**
+- 🌱 My major is **Electrical Engineering**
 
-- 💬 좋아하는 것? **해외축구를 좋아합니다 #첼시**
+- 💬 My interest is **Watching Football #Chelsea**
 
-- 📫 연락 방법? **songjaeik1212@naver.com**
+- 📫 How to reach me **songjaeik1212@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

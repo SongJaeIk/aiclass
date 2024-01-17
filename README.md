@@ -1,27 +1,14 @@
-﻿# 안녕하세요, 송재익입니다!
+<h1 align="center">Hi 👋, I'm SongJaeIk</h1>
+<h3 align="center">Welcome!</h3>
 
-## 👋 소개
-안녕하세요, 저는 부산대학생으로 활동 중인 송재익입니다. 전기공학에 관심이 많습니다.
+- 💬 해외축구를 좋아합니다. **#첼시**
 
-## 🔍 관심사
-- 전기공학
-- 해외축구
-- [기타 관심사나 전문 분야]
+- 📫 연락 방법 **songjaeik1212@naver.com**
 
-## 🌟 주요 경력 및 성과
-- [경력 또는 성과 #1]
-- [경력 또는 성과 #2]
-- [기타 경력 또는 성과]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💻 기술 스택
-- 언어: Python
-- 프레임워크 및 도구: [프레임워크 및 도구 #1, #2, ...]
-- 데이터베이스: [데이터베이스 #1, #2, ...]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📫 연락 방법
-- 이메일: songjaeik1212@naver.com
-- LinkedIn: [LinkedIn 프로필 링크]
-- Twitter: [Twitter 계정 링크] (해당하는 경우)
-
-## ⚡ 재미있는 사실
-- [당신에 관한 재미있는 사실 또는 흥미로운 취미]
